@@ -1,2 +1,2 @@
 # RastgeleSozler
-##Belirli sözler arasından bir söz seçip ekrana yazdıran bir uygulama
+Belirli sözler arasından bir söz seçip ekrana yazdıran bir uygulama
